@@ -1,6 +1,3 @@
-# Project Programming
+# # Exam Project: Creative Applications Seminar
 
-- one
-- two
-- three
-- check
+This repository contains my exam project for the Creative Applications seminar. The project explores the intersection of art and technology, showcasing my creativity and technical skills in developing interactive and visually appealing applications.
